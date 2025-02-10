@@ -27,6 +27,8 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 
 ## Links de estudo
 - [Medium](https://medium.com/@karlos-b/database-project-e-commerce-order-management-system-with-sql-d986b044d92)
+- [DevMedia](https://www.devmedia.com.br/planejamento-e-modelagem-de-um-banco-de-dados-para-e-commerce/17185)
+- [Azimutt](https://azimutt.app/gallery/e-commerce)
 
 ## Ferramentas utilizadas
 - [MySql Workbench](https://www.mysql.com/products/workbench/)
