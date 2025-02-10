@@ -11,7 +11,7 @@
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 Este projeto foi proposto pela Digital Innovation One
-- Link do código original: [nenhum](https://github.com/julianazanelatto/mysql_sql_database_specialist/tree/main/M%C3%B3dulo%203/desafio)
+- Link do código original: (https://github.com/julianazanelatto/mysql_sql_database_specialist/tree/main/M%C3%B3dulo%203/desafio)
 - Professor: Juliana Mascarenhas
 - Aulas: https://web.dio.me/project/refinando-um-projeto-conceitual-de-banco-de-dados-e-commerce/learning/e731f9da-4b6d-458d-a577-6724668077be?back=/track/coding-the-future-heineken-ia-para-analise-de-dados&tab=undefined&moduleId=undefined
 
