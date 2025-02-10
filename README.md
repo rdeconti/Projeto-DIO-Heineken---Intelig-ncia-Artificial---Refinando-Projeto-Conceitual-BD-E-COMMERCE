@@ -11,9 +11,9 @@
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 Este projeto foi proposto pela Digital Innovation One
-- Link do código original: (https://github.com/julianazanelatto/mysql_sql_database_specialist/tree/main/M%C3%B3dulo%203/desafio)
+- Link do código original: [Github](https://github.com/julianazanelatto/mysql_sql_database_specialist/tree/main/M%C3%B3dulo%203/desafio)
 - Professor: Juliana Mascarenhas
-- Aulas: https://web.dio.me/project/refinando-um-projeto-conceitual-de-banco-de-dados-e-commerce/learning/e731f9da-4b6d-458d-a577-6724668077be?back=/track/coding-the-future-heineken-ia-para-analise-de-dados&tab=undefined&moduleId=undefined
+- Aulas: [DIO](https://web.dio.me/project/refinando-um-projeto-conceitual-de-banco-de-dados-e-commerce/learning/e731f9da-4b6d-458d-a577-6724668077be?back=/track/coding-the-future-heineken-ia-para-analise-de-dados&tab=undefined&moduleId=undefined)
 
 ## Descrição
 - Modelamos juntos um contexto reduzido de e-commerce. Agora é a sua vez, podes escolher a ferramenta de modelagem para realizar o desafio. Contudo, fique atento! Caso opte por uma variação do modelo entidade relacionamento, como nas ferramentas Mysql Workbench ou DBDesigner será preciso especificar as PK e FKs corretamente. Apesar desse conceito não ser utilizado na modelagem conceitual exploramos brevemente suas definições. Sendo assim, seu entregável será o esquema conceitual para o cenário de E-commerce.
@@ -25,6 +25,8 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 - Entrega – Possui status e código de rastreio;
 
-## Links 
+## Ferramentas utilizadas
+- [MySql Workbench](https://www.mysql.com/products/workbench/)
+
 
 
