@@ -10,6 +10,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
+-
+-
+-
+
 Este projeto foi proposto pela Digital Innovation One
 - Link do código original: [Github](https://github.com/julianazanelatto/mysql_sql_database_specialist/tree/main/M%C3%B3dulo%203/desafio)
 - Professor: Juliana Mascarenhas
@@ -33,5 +37,5 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 - Pagamento: atribuída a outras duas entidades para detalhar as formas de pagamento : Cartão e Boleto.
 - Entrega: criada para armazenar as informações de envio de cada pedido detalhar como data do pedido, data de envio e data de entrega.
 
-<img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/under_construction.gif" />
+<img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/Projeto-DIO-Heineken-Inteligencia-Artificial-Refinando-Projeto-Conceitual-BD-E-COMMERCE/blob/main/ecommerce_relational_schema_desafio.png" />
 
