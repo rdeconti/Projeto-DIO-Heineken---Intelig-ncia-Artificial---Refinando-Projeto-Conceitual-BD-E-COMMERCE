@@ -19,7 +19,7 @@ Este projeto foi proposto pela Digital Innovation One
 - Modelamos juntos um contexto reduzido de e-commerce. Agora é a sua vez, podes escolher a ferramenta de modelagem para realizar o desafio. Contudo, fique atento! Caso opte por uma variação do modelo entidade relacionamento, como nas ferramentas Mysql Workbench ou DBDesigner será preciso especificar as PK e FKs corretamente. Apesar desse conceito não ser utilizado na modelagem conceitual exploramos brevemente suas definições. Sendo assim, seu entregável será o esquema conceitual para o cenário de E-commerce.
 - O esquema deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto conceitual para fornecer o contexto sobre seu esquema.
 
-## Objetivo:
+## Objetivo do desafio:
 Refine o modelo apresentado acrescentando os seguintes pontos:
 - Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
@@ -28,5 +28,8 @@ Refine o modelo apresentado acrescentando os seguintes pontos:
 ## Ferramentas utilizadas
 - [MySql Workbench](https://www.mysql.com/products/workbench/)
 
-
+## Solução do desafio
+- Cliente: foram criadas duas novas entidades PJ_Pessoa Juridica e PF_Pessoa Fisica contendo as informações de CNPJ e CPF.
+- Pagamento: atribuída a outras duas entidades para detalhar as formas de pagamento : Cartão e Boleto.
+- Entrega: criada para armazenar as informações de envio de cada pedido detalhar como data do pedido, data de envio e data de entrega.
 
